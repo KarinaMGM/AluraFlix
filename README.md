@@ -14,4 +14,5 @@ Funcionalidades:
 
 • Rota página adicionar novo video, com formulário.
 
-![image](https://github.com/KarinaMGM/AluraFlix/assets/140670360/106acb3a-c74a-4c68-b7c4-37542c2efd0b)
+![aluraflix](https://github.com/KarinaMGM/AluraFlix/assets/140670360/ff0f6fc9-69ea-4e0b-b71c-fc608a60202f)
+
