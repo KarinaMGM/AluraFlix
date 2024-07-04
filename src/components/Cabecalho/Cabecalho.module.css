@@ -1,0 +1,24 @@
+.Cabecalho{
+    display: flex;
+    height: 125px;
+    border-bottom: 2px solid var(--blue);
+    box-shadow: rgb(43, 65, 89) 0px 20px 30px -10px;
+}
+
+.CabecalhoContainer{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.logo{
+    height: 40px;
+}
+
+nav{
+    display: flex;
+    gap: 25px;
+}

@@ -1,0 +1,30 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+    text-align: center;
+    border-top: 2px solid var(--blue);
+    gap: 1rem;
+}
+
+.logoFooter{
+    height: 40px;
+}
+
+.attribution {
+    color: var(--lightGray);
+}
+
+.attributionName{
+    color: var(--lightBlue);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.attributionName:hover{
+    color: var(--yellow);
+    text-decoration: none;
+    text-transform: uppercase;
+}

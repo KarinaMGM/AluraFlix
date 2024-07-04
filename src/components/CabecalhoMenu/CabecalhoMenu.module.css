@@ -1,0 +1,15 @@
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 10px;
+    color: var(--blue);
+    border: 2px solid var(--blue);
+    box-shadow: rgba(39, 83, 195, 0.35) 0px 5px 15px;
+    width: 180px;
+    height: 54px;
+}
+
+
